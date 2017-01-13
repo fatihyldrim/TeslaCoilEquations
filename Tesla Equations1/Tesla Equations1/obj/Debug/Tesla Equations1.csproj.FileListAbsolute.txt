@@ -1,0 +1,27 @@
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe.config
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.pdb
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Properties.Resources.resources
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csproj.GenerateResource.Cache
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.exe
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.pdb
+C:\Users\Ft\Desktop\Bitirme Projesi\TESLA COİL\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Tesla.resources
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe.config
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.exe
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.pdb
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.pdb
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csprojResolveAssemblyReference.cache
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Tesla.resources
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Properties.Resources.resources
+C:\Users\Ft\Desktop\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csproj.GenerateResource.Cache
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe.config
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.exe
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.pdb
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.exe
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\bin\Debug\Tesla Equations1.pdb
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csprojResolveAssemblyReference.cache
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Tesla.resources
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla_Equations1.Properties.Resources.resources
+D:\fatih\Çalışmalarım\C#\Tesla Equations1\Tesla Equations1\obj\Debug\Tesla Equations1.csproj.GenerateResource.Cache
